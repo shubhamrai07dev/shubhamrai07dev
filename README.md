@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham rai</h1>
-<h3 align="center">A passionate frontend developer and MERN developer.</h3>
+- 👋 Hi i'm **shubham rai**
 
 - 🌱 I’m currently learning **MERN stack development**
 
@@ -8,4 +7,3 @@
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **srshekhu235@gmail.com**
-
